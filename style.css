@@ -1,0 +1,17 @@
+/*
+Theme Name: DistriFormation
+Theme URI: http://www.distriformation.fr
+Author: David REUTIN
+Author URI: http://webinstant.fr
+Description: Thème Distri.Formation
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+.menu {
+    position: fixed;
+    top: 0px;
+}
+
+.admin-bar .menu {
+	top: 32px; /* on prend en compte le décalage */
+}
